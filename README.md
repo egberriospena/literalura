@@ -52,8 +52,6 @@ Se utiliza la **Gutendex API**, una API REST gratuita de dominio público que pe
 - **Puerto:** 5432
 - **Nombre de BD:** `literalura`
 - **Credenciales por defecto:**  
-  - Usuario: `postgres`  
-  - Contraseña: `1234`
 
 - Las entidades `Book` y `Author` se guardan en las tablas respectivas.  
 - Relaciones:
